@@ -1,5 +1,5 @@
 # nodeServer
-一个只有16行代码的node server
+一个只有12行代码的node server
 
 服务器配置文件：config.js
 
